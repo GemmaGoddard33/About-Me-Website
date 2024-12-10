@@ -1,7 +1,8 @@
 # My First HTML and CSS Project: Portfolio Website
 
-This project is my **first HTML and CSS website**, built as part of a class assignment to create a personal portfolio. It serves as a showcase of my skills, projects, and achievements in a clean and visually appealing format.
+This project is my **first HTML and CSS website**, built as part of a class assignment to create a personal portfolio. It serves as a showcase of my skills, projects, and achievements in a clean and visually appealing format. (
 
+Note: The website used to be hosted, but was taken down at the end of this class. 
 
 ## About the Project
 
