@@ -34,8 +34,7 @@ This project was part of a **department-wide competition** for the **best portfo
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone git@github.com:GemmaGoddard33/About-Me-Website.git
    
 2. **Open in a Browser**:
     ```bash
